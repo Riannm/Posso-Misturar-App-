@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">PossoMisturar</string>
+
+    <string-array name="products_general">
+        <item>Nada selecionado</item>
+        <item>Álcool</item>
+        <item>Álcool Gel</item>
+        <item>Álcool Líquido</item>
+        <item>Água oxigenada</item>
+        <item>Peróxido de hidrogênio</item>
+        <item>Antibiótico</item>
+        <item>Bebida alcoólica</item>
+        <item>Cerveja</item>
+        <item>Cachaça</item>
+        <item>Qualquer bebida alcoólica</item>
+        <item>Loratadina</item>
+        <item>Antihistamínico</item>
+        <item>Antialérgico</item>
+        <item>Paracetamol</item>
+        <item>Tylenol</item>
+        <item>Resfenol</item>
+        <item>Vicky Pirena</item>
+        <item>Cimegripe</item>
+        <item>Dipirona</item>
+        <item>Novalgina</item>
+        <item>Dorflex</item>
+        <item>Neosaldina</item>
+        <item>Lisador</item>
+        <item>Benegrip</item>
+        <item>Detergente</item>
+        <item>Detergente Líquido</item>
+        <item>Sabão</item>
+        <item>Detergente em Pó</item>
+        <item>Sabão em Pó</item>
+        <item>Vinagre</item>
+        <item>Ácido acético</item>
+        <item>Água sanitária</item>
+        <item>Hipoclorito de sódio</item>
+        <item>Cloro</item>
+        <item>Desinfetante</item>
+        <item>Pinho Sol</item>
+        <item>Veja</item>
+        <item>Ajax</item>
+        <item>Lisoform</item>
+        <item>Bicarbonato de sódio</item>
+        <item>Leite</item>
+        <item>Manga</item>
+        <item>Açúcar</item>
+    </string-array>
+
+    <string-array name="products_for_alcool">
+        <item>Nada Selecionado</item>
+        <item>Vinagre</item>
+        <item>Detergente</item>
+        <item>Água Sanitária</item>
+    </string-array>
+
+    <string-array name="products_for_agua_oxigenada">
+        <item>Nada Selecionado</item>
+        <item>Vinagre</item>
+        <item>Água Sanitária</item>
+    </string-array>
+
+    <string-array name="products_for_antibiotico">
+        <item>Nada Selecionado</item>
+        <item>Bebida Alcoólica</item>
+        <item>Leite</item>
+    </string-array>
+
+    <string-array name="products_for_bebidas_alcoólicas">
+        <item>Nada Selecionado</item>
+        <item>Antibiótico</item>
+        <item>Loratadina</item>
+        <item>Dipirona</item>
+        <item>Paracetamol</item>
+    </string-array>
+
+    <string-array name="products_for_loratadina">
+        <item>Nada Selecionado</item>
+        <item>Bebida Alcoólica</item>
+    </string-array>
+
+    <string-array name="products_for_paracetamol">
+        <item>Nada Selecionado</item>
+        <item>Bebida Alcoólica</item>
+    </string-array>
+
+    <string-array name="products_for_dipirona">
+        <item>Nada Selecionado</item>
+        <item>Bebida Alcoólica</item>
+        <item>Leite</item>
+    </string-array>
+
+    <string-array name="products_for_detergente">
+        <item>Nada Selecionado</item>
+        <item>Álcool</item>
+        <item>Água Sanitária</item>
+        <item>Bicabornato de Sódio</item>
+    </string-array>
+
+    <string-array name="products_for_sabao_po">
+        <item>Nada Selecionado</item>
+        <item>Água Sanitária</item>
+    </string-array>
+
+    <string-array name="products_for_vinagre">
+        <item>Nada Selecionado</item>
+        <item>Álcool</item>
+        <item>Água Oxigenada</item>
+        <item>Água Sanitária</item>
+        <item>Desinfetante</item>
+        <item>Lisoform</item>
+        <item>Bicabornato de Sódio</item>
+    </string-array>
+
+    <string-array name="products_for_agua_sanitaria">
+        <item>Nada Selecionado</item>
+        <item>Álcool</item>
+        <item>Água Oxigenada</item>
+        <item>Detergente</item>
+        <item>Detergente em pó</item>
+        <item>Vinagre</item>
+        <item>Desinfetante</item>
+        <item>Lisoform</item>
+        <item>Açucar</item>
+    </string-array>
+
+    <string-array name="products_for_desinfetante">
+        <item>Nada Selecionado</item>
+        <item>Vinagre</item>
+        <item>Água Sanitária</item>
+    </string-array>
+
+    <string-array name="products_for_bicabornato_de_sodio">
+        <item>Nada Selecionado</item>
+        <item>Vinagre</item>
+        <item>Detergente</item>
+    </string-array>
+
+    <string-array name="products_for_leite">
+        <item>Nada Selecionado</item>
+        <item>Antibiótico</item>
+        <item>Dipirona</item>
+        <item>Manga</item>
+    </string-array>
+
+    <string-array name="products_for_manga">
+        <item>Nada Selecionado</item>
+        <item>Leite</item>
+    </string-array>
+
+    <string-array name="products_for_acucar">
+        <item>Nada Selecionado</item>
+        <item>Água Sanitária</item>
+    </string-array>
+
+</resources>

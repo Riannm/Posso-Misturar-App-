@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85407083271",
+    "project_id": "possomisturar-45fdb",
+    "storage_bucket": "possomisturar-45fdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85407083271:android:94a29be57991291a02f3a2",
+        "android_client_info": {
+          "package_name": "com.example.possomisturar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8BE8aMFOwOxs7eJNULrL4WhQDaaSpk7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
